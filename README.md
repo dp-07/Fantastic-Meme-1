@@ -1,3 +1,3 @@
 # Fantastic-meme
 
-This is the colaborated project with Paras (dp-07).
+This is a colaborated project with Paras (dp-07).
