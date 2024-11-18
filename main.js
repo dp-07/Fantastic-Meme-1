@@ -21,5 +21,3 @@ console.alert("HI THERE!!!");
 
     var food = prompt("What is your favourite food?");
     console.log("Your favourite food is " + food);
-
-    console.log("I hope you are having a great day!");
